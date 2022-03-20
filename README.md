@@ -10,13 +10,14 @@
 ### Analysis of Outcomes Based on Launch Date
     For this analysis, I organized the given information in Excel to create a PivotChart and then a LineChart.  I orgnazined my the information in my PivotChart to create an x-axis using the "Date Created" category.  The y-axis I arranged using the outcomes column. The "outcomes column" was also used in the Values fields to show how the information related to the x- and y- axis.  My Filters field included both the Parent and Date Ended Columns.
     
-    ![Theater_Outcomes_vs_Launch](https://github.com/DanielRCal/Module1_Kickstarter/blob/main/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch](https://github.com/DanielRCal/Module1_Kickstarter/blob/main/Theater_Outcomes_vs_Launch.png)
 
 
 ### Analysis of Outcomes Based on Goals
     This analysis included the Goals column utilized as the x-axis, the Values column used as the y-axis, and the Values field being comprized of the Sum of Percentages for Successful, Failed, and Canceled plays.
 
-    ![Outcomes_vs_Goals](https://github.com/DanielRCal/Module1_Kickstarter/blob/main/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/DanielRCal/Module1_Kickstarter/blob/main/Outcomes_vs_Goals.png
+)
 
 ### Challenges and Difficulties Encountered
     I had difficulty organizing the points on my Outcomes based on Goals Chart.  Also, I was unable to change the percentages on my y-axis to show percentages
